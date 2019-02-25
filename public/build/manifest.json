@@ -3,6 +3,7 @@
   "build/layout.js": "/build/layout.js",
   "build/login.css": "/build/login.css",
   "build/login.js": "/build/login.js",
+  "build/manifest.js": "/build/manifest.js",
   "build/rep_log.js": "/build/rep_log.js",
   "build/fonts/fontawesome-webfont.eot?v=4.7.0": "/build/fonts/fontawesome-webfont.674f50d2.eot",
   "build/fonts/fontawesome-webfont.woff2?v=4.7.0": "/build/fonts/fontawesome-webfont.af7ae505.woff2",
