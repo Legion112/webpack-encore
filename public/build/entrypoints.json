@@ -1,0 +1,9 @@
+{
+  "entrypoints": {
+    "rep_log": {
+      "js": [
+        "/build/rep_log.js"
+      ]
+    }
+  }
+}
