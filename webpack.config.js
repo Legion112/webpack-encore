@@ -7,6 +7,8 @@ Encore
     .setPublicPath('/build')
 
     .addEntry('rep_log', './public/assets/js/rep_log.js')
+    .addEntry('login', './public/assets/js/login.js')
+    .addEntry('layout', './public/assets/js/layout.js')
 
     .enableBuildNotifications()
 ;

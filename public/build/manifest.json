@@ -1,3 +1,5 @@
 {
+  "build/layout.js": "/build/layout.js",
+  "build/login.js": "/build/login.js",
   "build/rep_log.js": "/build/rep_log.js"
 }
