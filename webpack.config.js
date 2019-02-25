@@ -18,6 +18,8 @@ Encore
     .addPlugin(new CopyWebpackPlugin([
         {from: './assets/static', to: 'static'}
     ]))
+    .enableSassLoader()
+    .enableSourceMaps(!Encore.isProduction())
 ;
 // export the final configuration
 module.exports = Encore.getWebpackConfig();
