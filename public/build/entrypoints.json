@@ -6,11 +6,17 @@
       ]
     },
     "login": {
+      "css": [
+        "/build/login.css"
+      ],
       "js": [
         "/build/login.js"
       ]
     },
     "layout": {
+      "css": [
+        "/build/layout.css"
+      ],
       "js": [
         "/build/layout.js"
       ]
